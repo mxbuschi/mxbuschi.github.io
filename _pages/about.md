@@ -16,13 +16,13 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-**I am a PhD student at the Institute for Machine Tools and Industrial Management (*iwb*) at the Technical University of Munich.**
+**I am a PhD student at the [Institute for Machine Tools and Industrial Management (*iwb*)](https://www.mec.ed.tum.de/en/iwb/homepage/) at the [Technical University of Munich](https://www.tum.de/en/).**
 
 
 
 I am focused on 
 
-🎯 Accuracy enhancement of robot-based milling processes,
+🎯 Accuracy improvement of robot-based milling processes,
 
 🛠️ Information fusion of data-driven models and physics-based structural models using probabilistic machine learning methods and
 

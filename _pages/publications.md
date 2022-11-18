@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My academic publications.
+description: My academic publications:
 years: [2018, 2019, 2020, 2021, 2022]
 nav: true
 nav_order: 1

@@ -14,10 +14,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there!
 
-🎯 Accuracy enhancement of robot-based milling processes
 
-🛠️ Information fusion of data-driven models with physically motivated structural models by probabilistic machine learning methods 
+**I am a PhD student at the Institute for Machine Tools and Industrial Management (*iwb*) at the Technical University of Munich.**
 
-☁ Smart Data Analytics and Information Security in Cloud-based Data Processing of OPC UA Machine Tool Data
+
+
+I am focused on 
+
+🎯 Accuracy enhancement of robot-based milling processes,
+
+🛠️ Information fusion of data-driven models and physics-based structural models using probabilistic machine learning methods and
+
+☁ Smart Data Analytics and Information Security in Cloud-based Data Processing of OPC UA Machine Tool Data.
+
+------
+

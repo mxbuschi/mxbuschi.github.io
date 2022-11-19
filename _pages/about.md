@@ -30,13 +30,11 @@ I am focused on
 
 ------
 
-
-💻
  ### Tech Stack:
 
 <sup>(links to sources included)</sup>
 
-💬 **Languages**
+💻 **Languages**
 
 [![Python](https://img.shields.io/badge/Python-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.python.org)
 [![C/C++](https://img.shields.io/badge/C/C++-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://cplusplus.com)

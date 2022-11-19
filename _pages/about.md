@@ -37,7 +37,7 @@ I am focused on
 [![Python](https://img.shields.io/badge/Python-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![C/C++](https://img.shields.io/badge/C/C++-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![Matlab/Simulink](https://img.shields.io/badge/Matlab/Simulink-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![IEC 61131](https://img.shields.io/badge/IEC 61131 (ST)-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![IEC61131](https://img.shields.io/badge/IEC 61131 (ST)-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
 **Data-Driven Modelling**
@@ -72,16 +72,16 @@ I am focused on
 
   
 **Hardware**
-[![Revolution Pi](https://img.shields.io/badge/Revolution Pi-ColourCode?logo=SimpleIconName&logoColor=ColorName&style)]()
-[![Beckhoff Twincat](https://img.shields.io/badge/Beckhoff Twincat-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![RevolutionPi](https://img.shields.io/badge/Revolution Pi-ColourCode?logo=SimpleIconName&logoColor=ColorName&style)]()
+[![BeckhoffTwincat](https://img.shields.io/badge/Beckhoff Twincat-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![Arduino](https://img.shields.io/badge/Arduino-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry Pi-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![NI DAQ](https://img.shields.io/badge/NI DAQ-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![RaspberryPi](https://img.shields.io/badge/Raspberry Pi-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![NIDAQ](https://img.shields.io/badge/NI DAQ-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
 **Development Tools**
 [![conda](https://img.shields.io/badge/conda-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![Visual Studio](https://img.shields.io/badge/Visual Studio-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![VisualStudioCode](https://img.shields.io/badge/Visual Studio Code-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![VisualStudio](https://img.shields.io/badge/Visual Studio-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![Codesys](https://img.shields.io/badge/Codesys-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![Blender](https://img.shields.io/badge/Blender-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()

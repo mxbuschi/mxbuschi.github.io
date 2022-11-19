@@ -30,7 +30,10 @@ I am focused on
 
 ------
 
+
 ### My Tech Stack:
+
+<sup>(links included)</sup>
 
 💬 **Languages**
 

@@ -41,12 +41,14 @@ I am focused on
 
   
 **Data-Driven Modelling**
+
 [![GPy](https://img.shields.io/badge/GPy-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![emukit](https://img.shields.io/badge/emukit-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![uncertainpy](https://img.shields.io/badge/uncertainpy-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
 **Data Pre- and Post-Processing**
+
 [![Matlab](https://img.shields.io/badge/Matlab-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![pandas](https://img.shields.io/badge/pandas-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![matplotlib](https://img.shields.io/badge/matplotlib-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
@@ -56,23 +58,27 @@ I am focused on
 
   
 **Simulation & Visualization of Robotic Systems**
+
 [![RBDL](https://img.shields.io/badge/RBDL-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![OpenGL](https://img.shields.io/badge/OpenGL-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![ROS](https://img.shields.io/badge/ROS-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
 **Structural Dynamics**
+
 [![Matlab](https://img.shields.io/badge/Matlab-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![pyEMA](https://img.shields.io/badge/pyEMA-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![LMS](https://img.shields.io/badge/LMS-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
 **Control Design**
+
 [![Simulink](https://img.shields.io/badge/Simulink-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
 **Hardware**
-[![RevolutionPi](https://img.shields.io/badge/RevolutionPi-ColourCode?logo=SimpleIconName&logoColor=ColorName&style)]()
+
+[![RevolutionPi]("https://img.shields.io/badge/RevolutionPi-ColourCode?logo=SimpleIconName&logoColor=ColorName&style")]()
 [![BeckhoffTwincat](https://img.shields.io/badge/Beckhoff Twincat-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![Arduino](https://img.shields.io/badge/Arduino-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![RaspberryPi](https://img.shields.io/badge/Raspberry Pi-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
@@ -80,6 +86,7 @@ I am focused on
 
   
 **Development Tools**
+
 [![conda](https://img.shields.io/badge/conda-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![VisualStudioCode](https://img.shields.io/badge/Visual Studio Code-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![VisualStudio](https://img.shields.io/badge/Visual Studio-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()

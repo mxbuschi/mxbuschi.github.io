@@ -32,7 +32,8 @@ I am focused on
 
 
 
-## My Tech Stack:
+#### My Tech Stack:
+
 
 💻 **Languages**
 
@@ -40,6 +41,16 @@ I am focused on
 [![C/C++](https://img.shields.io/badge/C/C++-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://cplusplus.com)
 [![Matlab/Simulink](https://img.shields.io/badge/Matlab/Simulink-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/products/matlab.html)
 [![IEC61131](<https://img.shields.io/badge/IEC 61131--3-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://de.wikipedia.org/wiki/EN_61131)
+
+
+ 👾 **Robotics**
+
+[![RBDL](https://img.shields.io/badge/RBDL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/ORB-HD/rbdl-orb)
+[![KDL](https://img.shields.io/badge/OROCOS--KDL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://orocos.org/wiki/orocos/kdl-wiki.html)
+[![DART](https://img.shields.io/badge/DART-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://dartsim.github.io)
+[![Chrono](<https://img.shields.io/badge/Project Chrono-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://projectchrono.org)
+[![OpenGL](https://img.shields.io/badge/OpenGL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/mcfletch/pyopengl)
+[![ROS](https://img.shields.io/badge/ROS-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.ros.org)
 
   
 🧠 **Data-Driven Modelling**
@@ -52,16 +63,6 @@ I am focused on
 [![scikit](https://img.shields.io/badge/scikit--learn-pink?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://scikit-learn.org/stable/)
 
 
- 👾 **Robotics**
-
-[![RBDL](https://img.shields.io/badge/RBDL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/ORB-HD/rbdl-orb)
-[![KDL](https://img.shields.io/badge/OROCOS--KDL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://orocos.org/wiki/orocos/kdl-wiki.html)
-[![DART](https://img.shields.io/badge/DART-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://dartsim.github.io)
-[![Chrono](<https://img.shields.io/badge/Project Chrono-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://projectchrono.org)
-[![OpenGL](https://img.shields.io/badge/OpenGL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/mcfletch/pyopengl)
-[![ROS](https://img.shields.io/badge/ROS-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.ros.org)
-
- 
 〰 **Structural Dynamics**
 
 [![Matlab](https://img.shields.io/badge/Matlab-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/products/matlab.html)

@@ -42,9 +42,9 @@ I am focused on
   
 🧠 **Data-Driven Modelling**
 
-[![GPy](https://img.shields.io/badge/GPy-rose?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![emukit](https://img.shields.io/badge/emukit-rose?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![uncertainpy](https://img.shields.io/badge/uncertainpy-rose?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![GPy](https://img.shields.io/badge/GPy-pink?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/SheffieldML/GPy)
+[![emukit](https://img.shields.io/badge/emukit-pink?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/emukit/emukit)
+[![uncertainpy](https://img.shields.io/badge/uncertainpy-pink?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/simetenn/uncertainpy)
 
   
 🪄 **Data Pre- and Post-Processing**
@@ -53,21 +53,21 @@ I am focused on
 [![pandas](https://img.shields.io/badge/pandas-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![matplotlib](https://img.shields.io/badge/matplotlib-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![numpy](https://img.shields.io/badge/numpy-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![Elastic](https://img.shields.io/badge/Elastic-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![Kibana](https://img.shields.io/badge/Kibana-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![Elastic](https://img.shields.io/badge/Elastic-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.elastic.co/de/)
+[![Kibana](https://img.shields.io/badge/Kibana-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.elastic.co/de/kibana/)
 
   
 👾 **Simulation & Visualization of Robotic Systems**
 
-[![RBDL](https://img.shields.io/badge/RBDL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![OpenGL](https://img.shields.io/badge/OpenGL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![ROS](https://img.shields.io/badge/ROS-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![RBDL](https://img.shields.io/badge/RBDL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/ORB-HD/rbdl-orb)
+[![OpenGL](https://img.shields.io/badge/OpenGL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/mcfletch/pyopengl)
+[![ROS](https://img.shields.io/badge/ROS-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.ros.org)
 
   
 〰 **Structural Dynamics**
 
 [![Matlab](https://img.shields.io/badge/Matlab-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![pyEMA](https://img.shields.io/badge/pyEMA-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![pyEMA](https://img.shields.io/badge/pyEMA-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/ladisk/pyEMA)
 [![LMS](https://img.shields.io/badge/LMS-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
@@ -78,6 +78,8 @@ I am focused on
   
 📟 **Hardware**
 
+[![KUKA](<https://img.shields.io/badge/KUKA KR240 R2500 prime-green?logo=SimpleIconName&logoColor=ColorName&style>)]()
+[![MABI](<https://img.shields.io/badge/MABI Max 100-green?logo=SimpleIconName&logoColor=ColorName&style>)]()
 [![RevolutionPi](<https://img.shields.io/badge/Revolution Pi-green?logo=SimpleIconName&logoColor=ColorName&style>)]()
 [![BeckhoffTwincat](<https://img.shields.io/badge/Beckhoff Twincat-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
 [![Arduino](https://img.shields.io/badge/Arduino-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()

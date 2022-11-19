@@ -30,9 +30,6 @@ I am focused on
 
 ------
 
- Tech Stack:
- ---------------
-
 💻 **Languages**
 
 [![Python](https://img.shields.io/badge/Python-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.python.org)

@@ -30,7 +30,8 @@ I am focused on
 
 ------
 
- **Tech Stack:**
+ Tech Stack:
+ ---------------
 
 💻 **Languages**
 
@@ -76,7 +77,7 @@ I am focused on
   
 🔁 **Control Design**
 
-[![Simulink](https://img.shields.io/badge/Simulink-lightgrey?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/products/matlab.html)
+[![Simulink](https://img.shields.io/badge/Simulink-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/products/matlab.html)
 
   
 📟 **Hardware**

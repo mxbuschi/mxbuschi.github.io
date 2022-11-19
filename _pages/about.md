@@ -37,7 +37,7 @@ I am focused on
 [![Python](https://img.shields.io/badge/Python-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![C/C++](https://img.shields.io/badge/C/C++-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![Matlab/Simulink](https://img.shields.io/badge/Matlab/Simulink-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![IEC61131](https://img.shields.io/badge/IEC 61131 (ST)-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![IEC61131](https://img.shields.io/badge/IEC61131-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
 **Data-Driven Modelling**

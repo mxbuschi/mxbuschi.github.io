@@ -37,7 +37,7 @@ I am focused on
 <img src="https://img.shields.io/badge/Python-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 <img src="https://img.shields.io/badge/C/C++-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 <img src="https://img.shields.io/badge/Matlab/Simulink-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/IEC-61131 (ST)-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/IEC 61131 (ST)-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 <\p>
   
 **Data-Driven Modelling**
@@ -66,7 +66,8 @@ I am focused on
   
 **Structural Dynamics**
 <p>
-<img src="https://img.shields.io/badge/-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Matlab-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/pyEMA-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 <img src="https://img.shields.io/badge/LMS-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 <\p>
   

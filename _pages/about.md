@@ -42,7 +42,7 @@ I am focused on
   
 **Data-Driven Modelling**
 <p>
-<img src="https://img.shields.io/badge/GPy-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/GPy-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle&link=www.google.de" />
 <img src="https://img.shields.io/badge/emukit-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 <img src="https://img.shields.io/badge/uncertainpy-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 </p>

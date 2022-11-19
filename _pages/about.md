@@ -96,6 +96,7 @@ I am focused on
 
 [![VisualStudioCode](<https://img.shields.io/badge/Visual Studio Code-red?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://code.visualstudio.com)
 [![VisualStudio](<https://img.shields.io/badge/Visual Studio-red?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://visualstudio.microsoft.com/)
+[![Matlab/Simulink](https://img.shields.io/badge/Matlab/Simulink-red?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/products/matlab.html)
 [![Codesys](https://img.shields.io/badge/CODESYS-red?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.codesys.com)
 [![BeckhoffTwincat](<https://img.shields.io/badge/Beckhoff TwinCAT-red?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://www.beckhoff.com/de-de/produkte/automation/twincat/)
 [![Blender](https://img.shields.io/badge/Blender-red?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.blender.org)

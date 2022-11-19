@@ -72,7 +72,7 @@ I am focused on
 
   
 **Hardware**
-[![RevolutionPi](https://img.shields.io/badge/Revolution Pi-ColourCode?logo=SimpleIconName&logoColor=ColorName&style)]()
+[![RevolutionPi](https://img.shields.io/badge/RevolutionPi-ColourCode?logo=SimpleIconName&logoColor=ColorName&style)]()
 [![BeckhoffTwincat](https://img.shields.io/badge/Beckhoff Twincat-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![Arduino](https://img.shields.io/badge/Arduino-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![RaspberryPi](https://img.shields.io/badge/Raspberry Pi-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()

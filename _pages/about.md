@@ -40,14 +40,17 @@ I am focused on
 [![Python](https://img.shields.io/badge/Python-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.python.org)
 [![C/C++](https://img.shields.io/badge/C/C++-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://cplusplus.com)
 [![Matlab/Simulink](https://img.shields.io/badge/Matlab/Simulink-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/products/matlab.html)
-[![IEC61131](<https://img.shields.io/badge/IEC 61131-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://de.wikipedia.org/wiki/EN_61131)
+[![IEC61131](<https://img.shields.io/badge/IEC 61131--3-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://de.wikipedia.org/wiki/EN_61131)
 
   
 🧠 **Data-Driven Modelling**
 
 [![GPy](https://img.shields.io/badge/GPy-pink?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/SheffieldML/GPy)
 [![emukit](https://img.shields.io/badge/emukit-pink?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/emukit/emukit)
+[![pymc3](https://img.shields.io/badge/PyMC3-pink?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/pymc-devs/pymc)
 [![uncertainpy](https://img.shields.io/badge/uncertainpy-pink?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/simetenn/uncertainpy)
+[![Chaospy](https://img.shields.io/badge/Chaospy-pink?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/jonathf/chaospy)
+[![scikit](https://img.shields.io/badge/scikit--learn-pink?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://scikit-learn.org/stable/)
 
   
 🪄 **Data Pre- and Post-Processing**

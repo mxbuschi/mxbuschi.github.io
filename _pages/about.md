@@ -30,9 +30,7 @@ I am focused on
 
 ------
 
- ## Tech Stack:
- 
- (links to sources included)
+ **Tech Stack:**
 
 💻 **Languages**
 

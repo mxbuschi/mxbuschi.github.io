@@ -34,10 +34,10 @@ I am focused on
 
 **Languages**
 
-[![Python](https://img.shields.io/badge/Python-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![Python](https://img.shields.io/badge/Python-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![C/C++](https://img.shields.io/badge/C/C++-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![Matlab/Simulink](https://img.shields.io/badge/Matlab/Simulink-orange?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![IEC61131](<https://img.shields.io/badge/IEC 61131-red?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
+[![Matlab/Simulink](https://img.shields.io/badge/Matlab/Simulink-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![IEC61131](<https://img.shields.io/badge/IEC 61131-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
 
   
 **Data-Driven Modelling**
@@ -49,46 +49,47 @@ I am focused on
   
 **Data Pre- and Post-Processing**
 
-[![Matlab](https://img.shields.io/badge/Matlab-orange?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![pandas](https://img.shields.io/badge/pandas-red?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![Matlab](https://img.shields.io/badge/Matlab-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![pandas](https://img.shields.io/badge/pandas-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![matplotlib](https://img.shields.io/badge/matplotlib-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![numpy](https://img.shields.io/badge/numpy-brown?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![Elastic](https://img.shields.io/badge/Elastic-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![numpy](https://img.shields.io/badge/numpy-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![Elastic](https://img.shields.io/badge/Elastic-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![Kibana](https://img.shields.io/badge/Kibana-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
 **Simulation & Visualization of Robotic Systems**
 
-[![RBDL](https://img.shields.io/badge/RBDL-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![OpenGL](https://img.shields.io/badge/OpenGL-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![ROS](https://img.shields.io/badge/ROS-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![RBDL](https://img.shields.io/badge/RBDL-darkgrey?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![OpenGL](https://img.shields.io/badge/OpenGL-darkgrey?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![ROS](https://img.shields.io/badge/ROS-darkgrey?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
 **Structural Dynamics**
 
-[![Matlab](https://img.shields.io/badge/Matlab-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![pyEMA](https://img.shields.io/badge/pyEMA-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![LMS](https://img.shields.io/badge/LMS-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![Matlab](https://img.shields.io/badge/Matlab-brown?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![pyEMA](https://img.shields.io/badge/pyEMA-brown?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![LMS](https://img.shields.io/badge/LMS-brown?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
 **Control Design**
 
-[![Simulink](https://img.shields.io/badge/Simulink-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![Simulink](https://img.shields.io/badge/Simulink-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
 **Hardware**
 
-[![RevolutionPi](<https://img.shields.io/badge/Revolution Pi-ColourCode?logo=SimpleIconName&logoColor=ColorName&style>)]()
-[![BeckhoffTwincat](<https://img.shields.io/badge/Beckhoff Twincat-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
-[![Arduino](https://img.shields.io/badge/Arduino-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![RaspberryPi](<https://img.shields.io/badge/Raspberry Pi-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
-[![NIDAQ](<https://img.shields.io/badge/NI DAQ-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
+[![RevolutionPi](<https://img.shields.io/badge/Revolution Pi-orange?logo=SimpleIconName&logoColor=ColorName&style>)]()
+[![BeckhoffTwincat](<https://img.shields.io/badge/Beckhoff Twincat-orange?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
+[![Arduino](https://img.shields.io/badge/Arduino-orange?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![RaspberryPi](<https://img.shields.io/badge/Raspberry Pi-orange?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
+[![NIDAQ](<https://img.shields.io/badge/NI DAQ-orange?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
 
   
 **Development Tools**
 
-[![conda](https://img.shields.io/badge/conda-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![VisualStudioCode](<https://img.shields.io/badge/Visual Studio Code-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
-[![VisualStudio](<https://img.shields.io/badge/Visual Studio-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
-[![Codesys](https://img.shields.io/badge/Codesys-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![Blender](https://img.shields.io/badge/Blender-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![VisualStudioCode](<https://img.shields.io/badge/Visual Studio Code-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
+[![VisualStudio](<https://img.shields.io/badge/Visual Studio-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
+[![Codesys](https://img.shields.io/badge/Codesys-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![Blender](https://img.shields.io/badge/Blender-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![conda](https://img.shields.io/badge/conda-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![jupyter](https://img.shields.io/badge/jupyter-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()

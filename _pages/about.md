@@ -84,8 +84,8 @@ I am focused on
 [![pandas](https://img.shields.io/badge/pandas-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://pandas.pydata.org)
 [![matplotlib](https://img.shields.io/badge/matplotlib-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://matplotlib.org)
 [![numpy](https://img.shields.io/badge/numpy-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://numpy.org)
-[![Plotly](https://img.shields.io/badge/Plotly-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/plotly)
-[![Dash](https://img.shields.io/badge/Dash-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/plotly/dash)
+[![Plotly](https://img.shields.io/badge/Plotly-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/plotly)
+[![Dash](https://img.shields.io/badge/Dash-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/plotly/dash)
 
   
 📟 **Hardware**

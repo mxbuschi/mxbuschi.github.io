@@ -63,7 +63,7 @@ I am focused on
 [![RBDL](https://img.shields.io/badge/RBDL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/ORB-HD/rbdl-orb)
 [![KDL](https://img.shields.io/badge/OROCOS--KDL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://orocos.org/wiki/orocos/kdl-wiki.html)
 [![DART](https://img.shields.io/badge/DART-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://dartsim.github.io)
-[![Chrono](https://img.shields.io/badge/Project Chrono-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://projectchrono.org)
+[![Chrono](<https://img.shields.io/badge/Project Chrono-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://projectchrono.org)
 [![OpenGL](https://img.shields.io/badge/OpenGL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/mcfletch/pyopengl)
 [![ROS](https://img.shields.io/badge/ROS-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.ros.org)
 

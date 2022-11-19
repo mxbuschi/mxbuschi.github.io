@@ -30,3 +30,65 @@ I am focused on
 
 ------
 
+### My Tech Stack:
+
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/C/C++-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Matlab/Simulink-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/IEC-61131 (ST)-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<\p>
+  
+**Data-Driven Modelling**
+<p>
+<img src="https://img.shields.io/badge/GPy-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/emukit-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/uncertainpy-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<\p>
+  
+**Data Pre- and Post-Processing**
+<p>
+<img src="https://img.shields.io/badge/Matlab-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/pandas-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/matplotlib-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/numpy-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Elastic-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Kibana-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<\p>
+  
+**Simulation & Visualization of Robotic Systems**
+<p>
+<img src="https://img.shields.io/badge/RBDL-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/OpenGL-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/ROS-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<\p>
+  
+**Structural Dynamics**
+<p>
+<img src="https://img.shields.io/badge/-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/LMS-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<\p>
+  
+**Control Design**
+<p>
+<img src="https://img.shields.io/badge/Simulink-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<\p>
+  
+**Hardware**
+<p>
+<img src="https://img.shields.io/badge/Revolution Pi-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Beckhoff Twincat-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Arduino-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Raspberry Pi-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/NI DAQ-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<\p>
+  
+**Development Tools**
+<p>
+<img src="https://img.shields.io/badge/Visual Studio Code-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/conda-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Visual Studio-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Codesys-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Blender-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<\p>

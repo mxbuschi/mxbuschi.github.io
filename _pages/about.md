@@ -30,7 +30,9 @@ I am focused on
 
 ------
 
- ### 💻 Tech Stack:
+
+💻
+ ### Tech Stack:
 
 <sup>(links to sources included)</sup>
 

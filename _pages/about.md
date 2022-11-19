@@ -93,4 +93,5 @@ I am focused on
 [![Blender](https://img.shields.io/badge/Blender-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![conda](https://img.shields.io/badge/conda-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![jupyter](https://img.shields.io/badge/jupyter-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![git](https://img.shields.io/badge/conda-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![git](https://img.shields.io/badge/git-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![Docker](https://img.shields.io/badge/Docker-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()

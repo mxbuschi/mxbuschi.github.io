@@ -33,16 +33,16 @@ I am focused on
 ### My Tech Stack:
 
 **Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+
+[![Python](img src="https://img.shields.io/badge/Python-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle")]()
 <img src="https://img.shields.io/badge/C/C++-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 <img src="https://img.shields.io/badge/Matlab/Simulink-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 <img src="https://img.shields.io/badge/IEC 61131 (ST)-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
-</p>
+
   
 **Data-Driven Modelling**
 <p>
-<img src="https://img.shields.io/badge/GPy-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle&link=www.google.de" />
+<img src="https://img.shields.io/badge/GPy-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 <img src="https://img.shields.io/badge/emukit-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 <img src="https://img.shields.io/badge/uncertainpy-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 </p>

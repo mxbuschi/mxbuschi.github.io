@@ -233,7 +233,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Busch]
-  first_name: [Maximilian, M.]
+  first_name: [Maximilian, M., M]
 
   style: apa
   locale: en

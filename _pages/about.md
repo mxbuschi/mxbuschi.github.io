@@ -31,10 +31,6 @@ I am focused on
 ---
 
 
-
-#### My Tech Stack:
-
-
 💻 **Languages**
 
 [![Python](https://img.shields.io/badge/Python-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.python.org)

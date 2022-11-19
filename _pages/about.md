@@ -31,9 +31,9 @@ I am focused on
 ------
 
 
-### My Tech Stack:
+💻 ### Tech Stack:
 
-<sup>(links included)</sup>
+<sup>(links to sources included)</sup>
 
 💬 **Languages**
 

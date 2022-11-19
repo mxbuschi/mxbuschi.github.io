@@ -32,10 +32,10 @@ I am focused on
 
 💻 **Languages**
 
-[![Python](https://img.shields.io/badge/Python-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.python.org)
-[![C/C++](https://img.shields.io/badge/C/C++-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://cplusplus.com)
-[![Matlab/Simulink](https://img.shields.io/badge/Matlab/Simulink-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/products/matlab.html)
-[![IEC61131](<https://img.shields.io/badge/IEC 61131--3-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://de.wikipedia.org/wiki/EN_61131)
+[![Python](https://img.shields.io/badge/Python-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.python.org)
+[![C/C++](https://img.shields.io/badge/C/C++-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://cplusplus.com)
+[![Matlab/Simulink](https://img.shields.io/badge/Matlab/Simulink-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/products/matlab.html)
+[![IEC61131](<https://img.shields.io/badge/IEC 61131--3-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://de.wikipedia.org/wiki/EN_61131)
 
   
 🧠 **Data-Driven Modelling**
@@ -71,15 +71,14 @@ I am focused on
 [![pandas](https://img.shields.io/badge/pandas-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://pandas.pydata.org)
 [![matplotlib](https://img.shields.io/badge/matplotlib-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://matplotlib.org)
 [![numpy](https://img.shields.io/badge/numpy-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://numpy.org)
-[![Elastic](https://img.shields.io/badge/Elastic-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.elastic.co/de/)
-[![Kibana](https://img.shields.io/badge/Kibana-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.elastic.co/de/kibana/)
-[![OPCUA](<https://img.shields.io/badge/OPC UA-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://opcfoundation.org/about/opc-technologies/opc-ua/)
-[![PlotlyDash](https://img.shields.io/badge/Plotly/Dash-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/plotly/dash)
-  
-  
-🔁 **Control Design**
 
-[![Simulink](https://img.shields.io/badge/Simulink-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/products/matlab.html)
+
+☁️ **Internet of Things**
+[![OPCUA](<https://img.shields.io/badge/OPC UA-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://opcfoundation.org/about/opc-technologies/opc-ua/)
+[![MQTT](<https://img.shields.io/badge/MQTT-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]([https://opcfoundation.org/about/opc-technologies/opc-ua/](https://mqtt.org))
+[![Elastic](https://img.shields.io/badge/Elastic-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.elastic.co/de/)
+[![Kibana](https://img.shields.io/badge/Kibana-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.elastic.co/de/kibana/)
+[![PlotlyDash](https://img.shields.io/badge/Plotly/Dash-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/plotly/dash)
 
   
 📟 **Hardware**

@@ -42,19 +42,19 @@ I am focused on
   
 **Data-Driven Modelling**
 
-[![GPy](https://img.shields.io/badge/GPy-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![emukit](https://img.shields.io/badge/emukit-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![uncertainpy](https://img.shields.io/badge/uncertainpy-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![GPy](https://img.shields.io/badge/GPy-lightgrey?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![emukit](https://img.shields.io/badge/emukit-lightgrey?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![uncertainpy](https://img.shields.io/badge/uncertainpy-lightgrey?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
 **Data Pre- and Post-Processing**
 
-[![Matlab](https://img.shields.io/badge/Matlab-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![pandas](https://img.shields.io/badge/pandas-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![matplotlib](https://img.shields.io/badge/matplotlib-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![numpy](https://img.shields.io/badge/numpy-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![Elastic](https://img.shields.io/badge/Elastic-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![Kibana](https://img.shields.io/badge/Kibana-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![Matlab](https://img.shields.io/badge/Matlab-orange?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![pandas](https://img.shields.io/badge/pandas-red?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![matplotlib](https://img.shields.io/badge/matplotlib-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![numpy](https://img.shields.io/badge/numpy-brown?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![Elastic](https://img.shields.io/badge/Elastic-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![Kibana](https://img.shields.io/badge/Kibana-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
 **Simulation & Visualization of Robotic Systems**

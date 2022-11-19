@@ -80,8 +80,7 @@ I am focused on
 
   
 **Development Tools**
-<p>ttps://img.shields.io/badge/conda-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+[![Python](https://img.shields.io/badge/conda-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 [![Python](https://img.shields.io/badge/Visual Studio-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Codesys-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Blender-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
-</p>
+[![Python](https://img.shields.io/badge/Codesys-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+[![Python](https://img.shields.io/badge/Blender-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />

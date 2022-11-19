@@ -34,10 +34,10 @@ I am focused on
 
 💬 **Languages**
 
-[![Python](https://img.shields.io/badge/Python-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![C/C++](https://img.shields.io/badge/C/C++-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![Matlab/Simulink](https://img.shields.io/badge/Matlab/Simulink-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
-[![IEC61131](<https://img.shields.io/badge/IEC 61131-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
+[![Python](https://img.shields.io/badge/Python-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![C/C++](https://img.shields.io/badge/C/C++-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![Matlab/Simulink](https://img.shields.io/badge/Matlab/Simulink-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
+[![IEC61131](<https://img.shields.io/badge/IEC 61131-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
 
   
 🧠 **Data-Driven Modelling**

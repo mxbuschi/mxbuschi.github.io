@@ -28,7 +28,9 @@ I am focused on
 
 ☁ Smart Data Analytics and Information Security in Cloud-based Data Processing of OPC UA Machine Tool Data.
 
-------
+---
+
+## My Tech Stack:
 
 💻 **Languages**
 

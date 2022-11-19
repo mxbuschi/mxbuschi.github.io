@@ -32,7 +32,7 @@ I am focused on
 
 ### My Tech Stack:
 
-**Languages**
+💬 **Languages**
 
 [![Python](https://img.shields.io/badge/Python-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![C/C++](https://img.shields.io/badge/C/C++-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
@@ -40,14 +40,14 @@ I am focused on
 [![IEC61131](<https://img.shields.io/badge/IEC 61131-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
 
   
-**Data-Driven Modelling**
+🧠 **Data-Driven Modelling**
 
 [![GPy](https://img.shields.io/badge/GPy-lightgrey?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![emukit](https://img.shields.io/badge/emukit-lightgrey?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![uncertainpy](https://img.shields.io/badge/uncertainpy-lightgrey?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
-**Data Pre- and Post-Processing**
+🪄 **Data Pre- and Post-Processing**
 
 [![Matlab](https://img.shields.io/badge/Matlab-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![pandas](https://img.shields.io/badge/pandas-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
@@ -57,26 +57,26 @@ I am focused on
 [![Kibana](https://img.shields.io/badge/Kibana-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
-**Simulation & Visualization of Robotic Systems**
+👾 **Simulation & Visualization of Robotic Systems**
 
 [![RBDL](https://img.shields.io/badge/RBDL-darkgrey?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![OpenGL](https://img.shields.io/badge/OpenGL-darkgrey?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![ROS](https://img.shields.io/badge/ROS-darkgrey?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
-**Structural Dynamics**
+〰 **Structural Dynamics**
 
 [![Matlab](https://img.shields.io/badge/Matlab-brown?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![pyEMA](https://img.shields.io/badge/pyEMA-brown?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 [![LMS](https://img.shields.io/badge/LMS-brown?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
-**Control Design**
+🔁 **Control Design**
 
 [![Simulink](https://img.shields.io/badge/Simulink-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
   
-**Hardware**
+📟 **Hardware**
 
 [![RevolutionPi](<https://img.shields.io/badge/Revolution Pi-orange?logo=SimpleIconName&logoColor=ColorName&style>)]()
 [![BeckhoffTwincat](<https://img.shields.io/badge/Beckhoff Twincat-orange?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
@@ -85,7 +85,7 @@ I am focused on
 [![NIDAQ](<https://img.shields.io/badge/NI DAQ-orange?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
 
   
-**Development Tools**
+🧰 **Development Tools**
 
 [![VisualStudioCode](<https://img.shields.io/badge/Visual Studio Code-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()
 [![VisualStudio](<https://img.shields.io/badge/Visual Studio-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]()

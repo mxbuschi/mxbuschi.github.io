@@ -63,6 +63,14 @@ I am focused on
 [![scikit](https://img.shields.io/badge/scikit--learn-pink?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://scikit-learn.org/stable/)
 
 
+☁️ **Internet of Things**
+
+[![OPCUA](<https://img.shields.io/badge/OPC UA-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://opcfoundation.org/about/opc-technologies/opc-ua/)
+[![MQTT](<https://img.shields.io/badge/MQTT-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]([https://opcfoundation.org/about/opc-technologies/opc-ua/](https://mqtt.org))
+[![Elastic](https://img.shields.io/badge/Elastic-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.elastic.co/de/)
+[![Kibana](https://img.shields.io/badge/Kibana-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.elastic.co/de/kibana/)
+
+
 〰 **Structural Dynamics**
 
 [![Matlab](https://img.shields.io/badge/Matlab-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/products/matlab.html)
@@ -76,15 +84,8 @@ I am focused on
 [![pandas](https://img.shields.io/badge/pandas-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://pandas.pydata.org)
 [![matplotlib](https://img.shields.io/badge/matplotlib-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://matplotlib.org)
 [![numpy](https://img.shields.io/badge/numpy-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://numpy.org)
-
-
-☁️ **Internet of Things**
-
-[![OPCUA](<https://img.shields.io/badge/OPC UA-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://opcfoundation.org/about/opc-technologies/opc-ua/)
-[![MQTT](<https://img.shields.io/badge/MQTT-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]([https://opcfoundation.org/about/opc-technologies/opc-ua/](https://mqtt.org))
-[![Elastic](https://img.shields.io/badge/Elastic-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.elastic.co/de/)
-[![Kibana](https://img.shields.io/badge/Kibana-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.elastic.co/de/kibana/)
-[![PlotlyDash](https://img.shields.io/badge/Plotly/Dash-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/plotly/dash)
+[![Plotly](https://img.shields.io/badge/Plotly-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/plotly)
+[![Dash](https://img.shields.io/badge/Dash-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/plotly/dash)
 
   
 📟 **Hardware**

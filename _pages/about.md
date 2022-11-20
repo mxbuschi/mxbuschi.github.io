@@ -59,7 +59,7 @@ I am focused on
 [![scikit](https://img.shields.io/badge/scikit--learn-pink?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://scikit-learn.org/stable/)
 
 
-☁️ **Internet of Things**
+☁️ **Internet of Things and Industry 4.0**
 
 [![OPCUA](<https://img.shields.io/badge/OPC UA-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://opcfoundation.org/about/opc-technologies/opc-ua/)
 [![MQTT](<https://img.shields.io/badge/MQTT-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://mqtt.org)

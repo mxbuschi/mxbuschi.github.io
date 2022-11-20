@@ -62,7 +62,7 @@ I am focused on
 ☁️ **Internet of Things**
 
 [![OPCUA](<https://img.shields.io/badge/OPC UA-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://opcfoundation.org/about/opc-technologies/opc-ua/)
-[![MQTT](<https://img.shields.io/badge/MQTT-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)]([https://opcfoundation.org/about/opc-technologies/opc-ua/](https://mqtt.org))
+[![MQTT](<https://img.shields.io/badge/MQTT-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://mqtt.org)
 [![Elastic](https://img.shields.io/badge/Elastic-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.elastic.co/de/)
 [![Kibana](https://img.shields.io/badge/Kibana-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.elastic.co/de/kibana/)
 

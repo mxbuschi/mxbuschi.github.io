@@ -108,6 +108,6 @@ I am focused on
 [![git](https://img.shields.io/badge/git-red?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://git-scm.com)
 [![Docker](https://img.shields.io/badge/Docker-red?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.docker.com)
 
-📃 ** Other **
+📃 **Miscellaneous**
 
 [![ISO 9001:2015](https://img.shields.io/badge/certified%20Quality%20Management%20Representative%20(QMR,%20ISO%209001:2015)-lightgray?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://mxbusch.github.io)

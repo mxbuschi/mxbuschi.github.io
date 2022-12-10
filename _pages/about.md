@@ -28,6 +28,7 @@ I am focused on
 
 ☁ Smart Data Analytics and Information Security in Cloud-based Data Processing of OPC UA Machine Tool Data.
 
+
 [![ISO 9001:2015](https://img.shields.io/badge/certified%20Quality%20Management%20Representative%20(QMR,%20ISO%209001:2015)-lightgray?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://mxbusch.github.io)
 
 ---

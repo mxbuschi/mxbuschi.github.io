@@ -22,11 +22,11 @@ social: true  # includes social icons at the bottom of the page
 
 I am focused on 
 
-🎯 Accuracy improvement of robot-based milling processes,
+🎯 accuracy improvement of robot-based milling processes,
 
-🛠️ Information fusion of data-driven models and physics-based structural models using probabilistic machine learning methods and
+🛠️ information fusion of data-driven models and physics-based structural models using probabilistic machine learning methods and
 
-☁ Smart Data Analytics and Information Security in Cloud-based Data Processing of OPC UA Machine Tool Data.
+☁ smart data analytics and information security in cloud-based data processing of OPC UA machine tool data.
 
 
 ---

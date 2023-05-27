@@ -15,12 +15,10 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
+**I am a Technical Consultant at [MathWorks](https://de.mathworks.com/services/consulting.html). I advise and support development teams in best practices of Model-Based Design using MATLAB/Simulink. **
 
-**I am a PhD student at the [Institute for Machine Tools and Industrial Management (*iwb*)](https://www.mec.ed.tum.de/en/iwb/homepage/) at the [Technical University of Munich](https://www.tum.de/en/).**
-
-
-
-I am focused on 
+**Formerly, I was a PhD student and research associate at the [Institute for Machine Tools and Industrial Management (*iwb*)](https://www.mec.ed.tum.de/en/iwb/homepage/) at the [Technical University of Munich](https://www.tum.de/en/).**
+My research was focused on 
 
 🎯 accuracy improvement of robot-based milling processes,
 
@@ -34,9 +32,9 @@ I am focused on
 
 💻 **Languages**
 
+[![Matlab/Simulink](https://img.shields.io/badge/Matlab/Simulink-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/products/matlab.html)
 [![Python](https://img.shields.io/badge/Python-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.python.org)
 [![C/C++](https://img.shields.io/badge/C/C++-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://cplusplus.com)
-[![Matlab/Simulink](https://img.shields.io/badge/Matlab/Simulink-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/products/matlab.html)
 [![IEC61131](<https://img.shields.io/badge/IEC 61131--3-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://de.wikipedia.org/wiki/EN_61131)
 
 

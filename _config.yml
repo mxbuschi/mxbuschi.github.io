@@ -20,7 +20,7 @@ icon: 🤖  # the emoji used as the favicon (alternatively, provide image name i
 
 url: https://github.com/mxbusch/mxbusch.github.io/ # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: https://github.com/mxbusch/mxbusch.github.io/ # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -81,7 +81,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://www.mec.ed.tum.de/iwb/mitarbeitende/werkzeugmaschinen/busch-maximilian/ # work page URL
+work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url

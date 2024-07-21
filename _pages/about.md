@@ -31,10 +31,18 @@ My research was focused on
 
 ---
 
+## 🛠️ **My personal Tech Stack**
+
+📈 **Model-Based Design (MBD)**
+
+[![MBD Workflow Optimization](https://img.shields.io/badge/MBD%20Workflow%20Optimization-darkgreen?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]([https://www.python.org](https://de.mathworks.com/solutions/model-based-design.html))
+[![CI/CD Workflows](https://img.shields.io/badge/CI/CD%20Workflows-darkgreen?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/solutions/enterprise-it-systems/ci-cd.html)
+[![Code Generation](https://img.shields.io/badge/Code%20Generation-darkgreen?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/help/overview/code-generation.html?s_tid=hc_product_group_bc)
+[![Physical Modeling](https://img.shields.io/badge/Physical%20Modeling-darkgreen?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/help/simscape/physical-modeling.html)
 
 💻 **Languages**
 
-[![Matlab/Simulink](https://img.shields.io/badge/Matlab/Simulink-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/products/matlab.html)
+[![MATLAB/Simulink](https://img.shields.io/badge/MATLAB/Simulink-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/products/matlab.html)
 [![Python](https://img.shields.io/badge/Python-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.python.org)
 [![C/C++](https://img.shields.io/badge/C/C++-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://cplusplus.com)
 [![IEC61131](<https://img.shields.io/badge/IEC 61131--3-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://de.wikipedia.org/wiki/EN_61131)
@@ -46,7 +54,6 @@ My research was focused on
 [![KDL](https://img.shields.io/badge/OROCOS--KDL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://orocos.org/wiki/orocos/kdl-wiki.html)
 [![DART](https://img.shields.io/badge/DART-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://dartsim.github.io)
 [![Chrono](<https://img.shields.io/badge/Project Chrono-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://projectchrono.org)
-[![OpenGL](https://img.shields.io/badge/OpenGL-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/mcfletch/pyopengl)
 [![ROS](https://img.shields.io/badge/ROS-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.ros.org)
 
   

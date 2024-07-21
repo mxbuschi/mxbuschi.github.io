@@ -28,10 +28,13 @@ My research was focused on
 
 ☁ smart data analytics and information security in cloud-based data processing of OPC UA machine tool data.
 
+---
+---
+
+### 🛠️ **My personal Tech Stack**
 
 ---
 
-## 🛠️ **My personal Tech Stack**
 
 📈 **Model-Based Design (MBD)**
 
